@@ -24,13 +24,8 @@ Like/Dislike/scroll up down on the fly
 
 **1. Floating Menu UI**
 
-![Floating Menu](https://raw.githubusercontent.com/JohnHansonTheDev/tik-tok-hotkeys/main/screenshots/menu-ui.png)
+![Floating Menu](https://github.com/JohnHansonTheDev/tik-tok-hotkeys/blob/main/Instructions.png)
 
-**2. Using Keys on TikTok**
-
-![Using Keys](https://raw.githubusercontent.com/JohnHansonTheDev/tik-tok-hotkeys/main/screenshots/in-action.png)
-
-*You can replace these URLs with real screenshots after uploading to the `screenshots/` folder in your repo.*
 
 ---
 
@@ -45,7 +40,7 @@ If you haven't already:
 
 Emable TamperMonkey on CHROME
 
-![Enable tampermonkey](https://raw.githubusercontent.com/JohnHansonTheDev/tik-tok-hotkeys/main/screenshots/in-action.png)
+![Enable tampermonkey](https://github.com/JohnHansonTheDev/tik-tok-hotkeys/blob/main/Untitled.png)
 
 
 ### Step 2: Install the Script
